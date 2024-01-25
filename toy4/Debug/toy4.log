@@ -1,0 +1,7 @@
+﻿  toy4Dlg.cpp
+c:\users\3dons6\documents\visual studio 2015\projects\toy4\toy4\toy4dlg.cpp(191): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\3dons6\documents\visual studio 2015\projects\toy4\toy4\toy4dlg.cpp(263): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+c:\users\3dons6\documents\visual studio 2015\projects\toy4\toy4\toy4dlg.cpp(271): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\3dons6\documents\visual studio 2015\projects\toy4\toy4\toy4dlg.cpp(282): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  toy4.vcxproj -> C:\Users\3DONS6\documents\visual studio 2015\Projects\toy4\Debug\toy4.exe
+  toy4.vcxproj -> C:\Users\3DONS6\documents\visual studio 2015\Projects\toy4\Debug\toy4.pdb (Partial PDB)
